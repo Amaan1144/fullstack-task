@@ -23,5 +23,10 @@
 5. **Submit Your Work:**
    - Paste the GitHub repository link in the Google form you received after pushing your code.
 
+6. **.env in backend**
+   - PORT = 4040
+   - MONGO_URI =mongodb+srv://username:password@cluster0.otm7zmp.mongodb.net/dbName
+
+
 ---
 
