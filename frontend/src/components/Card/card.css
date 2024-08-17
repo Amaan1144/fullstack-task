@@ -1,0 +1,28 @@
+.card {
+    border: 1px solid #c4d8f0;
+    border-radius: 10px;
+    background-color: #e9f0f6;
+    max-height: 11.5rem;
+  }
+  
+  .card h2 {
+    font-size: 20px;
+    margin: 0 0 10px 0;
+    padding: 15px 10px 10px 15px;
+    color: #000;
+    text-align: start;
+  }
+
+  .card hr {
+    border: none; 
+    height: 1px; 
+    background-color: #c4d8f0;
+  }
+  
+  .card p {
+    font-size: 16px;
+    padding: 20px;
+    color: #6c6c78;
+    text-align: start;
+  }
+  
